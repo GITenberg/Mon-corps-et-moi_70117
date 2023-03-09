@@ -1,0 +1,49 @@
+_repo: Mon-corps-et-moi_70117
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Halicka, Alice
+    aliases:
+    - Halicka, Alicja
+    - Marcoussis, Alice
+    - Marcoussis, Alicja
+    - Rosenblatt, Alicja
+    birthdate: 1894
+    deathdate: 1974
+    gutenberg_agent_id: '55606'
+    url: http://www.gutenberg.org/2009/agents/55606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alice_Halicka
+    - https://fr.wikipedia.org/wiki/Alice_Halicka
+creator:
+  author:
+    agent_name: Crevel, René
+    alias: Crevel, Rene
+    birthdate: 1900
+    deathdate: 1935
+    gutenberg_agent_id: '55605'
+    url: http://www.gutenberg.org/2009/agents/55605
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Crevel
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Crevel_(%C3%A9crivain)
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70117'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3076667m
+pgterms:marc905: 20220101093924crevel
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$béditions du sagittaire, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Mon corps et moi
+url: http://www.gutenberg.org/ebooks/70117
