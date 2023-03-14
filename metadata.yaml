@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Alice_Halicka
     - https://fr.wikipedia.org/wiki/Alice_Halicka
+covers:
+- cover_type: archival
+  image_path: 70117-h/images/cover.jpg
 creator:
   author:
     agent_name: Crevel, René
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Crevel
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Crevel_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70117#Mon-corps-et-moi
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70117'
